@@ -1,3 +1,4 @@
+
 body {
 	background-image: url(../images/Modern-Dark-Wave-Kitchen-Design.jpg);
 	background-repeat: no-repeat;
@@ -51,7 +52,7 @@ li, .item{
 	display: block;
 	position: relative;
 	height: 40px;
-	width: 100%;
+	width: 90%;
 	top: 7px;
 	color: #FFFFFF;
 	float: right;
@@ -87,3 +88,38 @@ main {
 }
 
 .done {text-decoration:line-through;}
+
+input{background: none;
+	color: white;
+	border:1px solid white;
+	}
+
+#add{border-radius: 7px;
+	display: block;
+	position: relative;
+	width:10%;
+	height:40px;
+	color:white;
+	top:15px;
+	background-color: green;
+}
+
+#remove{
+border-radius: 7px;
+	display: block;
+	position: relative;
+	width:10%;
+	height:40px;
+	color:white;
+	top:15px;
+	background-color: green;	
+}
+
+
+
+
+
+
+
+
+
